@@ -1,2 +1,2 @@
-# sakuraclient.github.io
-Sakura Client's Website
+# website
+Website of Sakura LLC.
